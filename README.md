@@ -23,7 +23,6 @@ It demonstrates:
 
 ## 🏗️ Architecture: The "Chief of Staff" Pattern
 
-Inspired by Jim's Mindstone OS, PocketPA uses a central router to manage specialized skills.
 
 ```mermaid
 graph TD
