@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Local secrets (never commit!)
+.streamlit/secrets.toml
+get-api-key.bat
+
+# Draft files
+current_draft_session.txt
+
+# Memory (optional - remove if you want to track reports)
+memory/staff-contexts/*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

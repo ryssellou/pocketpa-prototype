@@ -1,0 +1,4 @@
+{
+  "apiKeyHelper": "%USERPROFILE%\\.claude\\get-api-key.bat",
+  "model": "opus"
+}

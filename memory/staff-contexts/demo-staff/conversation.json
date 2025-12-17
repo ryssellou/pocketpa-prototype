@@ -1,0 +1,112 @@
+[
+  {
+    "role": "user",
+    "content": "Hi PocketPA, I need to report an incident with Marcus.",
+    "timestamp": "2025-12-11T18:33:15.708318"
+  },
+  {
+    "role": "assistant",
+    "content": "Okay, I'm here to help. I've opened a new incident report for Marcus. Whenever you're ready, just tell me what happened in your own words.\n",
+    "timestamp": "2025-12-11T18:33:18.534948",
+    "skill_used": "incident-report"
+  },
+  {
+    "role": "user",
+    "content": "We were in the dining room about 20 minutes ago.",
+    "timestamp": "2025-12-11T18:33:19.857531"
+  },
+  {
+    "role": "assistant",
+    "content": "Okay, I've noted that the incident occurred approximately 20 minutes ago in the dining room. To ensure the report is complete, could you tell me in your own words exactly what happened?\n",
+    "timestamp": "2025-12-11T18:33:22.041367",
+    "skill_used": "incident-report"
+  },
+  {
+    "role": "user",
+    "content": "He threw his plate on the floor because he didn't like the food.",
+    "timestamp": "2025-12-11T18:33:23.070760"
+  },
+  {
+    "role": "assistant",
+    "content": "I understand. So Marcus threw his plate on the floor because he didn't like the food. What time did this happen exactly?\n",
+    "timestamp": "2025-12-11T18:33:25.111576",
+    "skill_used": "incident-report"
+  },
+  {
+    "role": "user",
+    "content": "Just me and Dave were there.",
+    "timestamp": "2025-12-11T18:33:26.138833"
+  },
+  {
+    "role": "assistant",
+    "content": "Okay, I've recorded that you and Dave were present. To clarify, were you both staff members supervising at the time? Also, was anyone else nearby, such as other residents?\n",
+    "timestamp": "2025-12-11T18:33:28.237556",
+    "skill_used": "incident-report"
+  },
+  {
+    "role": "user",
+    "content": "He was fine before, but got angry really fast when he saw the peas.",
+    "timestamp": "2025-12-11T18:33:29.244091"
+  },
+  {
+    "role": "assistant",
+    "content": "Okay, I've noted that Marcus was fine beforehand but became angry quickly upon seeing the peas. How would you describe his emotional state while he was throwing the plate? And how is he now?\n",
+    "timestamp": "2025-12-11T18:33:31.187297",
+    "skill_used": "incident-report"
+  },
+  {
+    "role": "user",
+    "content": "He was screaming during it, but he's calm now.",
+    "timestamp": "2025-12-11T18:33:32.311164"
+  },
+  {
+    "role": "assistant",
+    "content": "\u274c AI Execution error: 429 You exceeded your current quota. Please migrate to Gemini 2.5 Flash Image (models/gemini-2.5-flash-image) for higher quota limits. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_requests_per_model\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 10\n}\n, retry_delay {\n  seconds: 24\n}\n]",
+    "timestamp": "2025-12-11T18:33:33.352572",
+    "skill_used": "incident-report"
+  },
+  {
+    "role": "user",
+    "content": "We just talked to him and cleaned it up. No physical restraint needed.",
+    "timestamp": "2025-12-11T18:33:34.368788"
+  },
+  {
+    "role": "assistant",
+    "content": "\u274c AI Execution error: 429 You exceeded your current quota. Please migrate to Gemini 2.5 Flash Image (models/gemini-2.5-flash-image) for higher quota limits. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_requests_per_model\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 10\n}\n, retry_delay {\n  seconds: 23\n}\n]",
+    "timestamp": "2025-12-11T18:33:34.618112",
+    "skill_used": "incident-report"
+  },
+  {
+    "role": "user",
+    "content": "No injuries, just a broken plate.",
+    "timestamp": "2025-12-11T18:33:35.636273"
+  },
+  {
+    "role": "assistant",
+    "content": "\u274c AI Execution error: 429 You exceeded your current quota. Please migrate to Gemini 2.5 Flash Image (models/gemini-2.5-flash-image) for higher quota limits. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_requests_per_model\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 10\n}\n, retry_delay {\n  seconds: 22\n}\n]",
+    "timestamp": "2025-12-11T18:33:35.941098",
+    "skill_used": "incident-report"
+  },
+  {
+    "role": "user",
+    "content": "We'll offer him a different vegetable next time.",
+    "timestamp": "2025-12-11T18:33:36.956232"
+  },
+  {
+    "role": "assistant",
+    "content": "\u274c AI Execution error: 429 You exceeded your current quota. Please migrate to Gemini 2.5 Flash Image (models/gemini-2.5-flash-image) for higher quota limits. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_requests_per_model\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 10\n}\n, retry_delay {\n  seconds: 20\n}\n]",
+    "timestamp": "2025-12-11T18:33:37.335886",
+    "skill_used": "incident-report"
+  },
+  {
+    "role": "user",
+    "content": "Yes, that looks correct.",
+    "timestamp": "2025-12-11T18:33:38.341992"
+  },
+  {
+    "role": "assistant",
+    "content": "\u274c AI Execution error: 429 You exceeded your current quota. Please migrate to Gemini 2.5 Flash Image (models/gemini-2.5-flash-image) for higher quota limits. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_requests_per_model\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash-exp\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 10\n}\n, retry_delay {\n  seconds: 19\n}\n]",
+    "timestamp": "2025-12-11T18:33:38.594529",
+    "skill_used": "incident-report"
+  }
+]
